@@ -4,7 +4,9 @@ function getNormalized(){
   for(var k in $dl){
     $font = $dl.item(k).querySelectorAll('font');
     for(var j in $font){
-      console.log($font[j].innerHTML);
+      var teste = $font[j].innerHTML;
+      if(teste[0] == '[')
+        console.log(teste);
     }
   }
 }
