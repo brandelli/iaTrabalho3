@@ -5,7 +5,7 @@
 [e] KC
 [exemplo] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [time] N
 [de] PRP
@@ -241,7 +241,7 @@
 [a] PRP
 [o] DET
 [planície] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [já] ADV
 [estar] V
 [cando] N
@@ -486,7 +486,7 @@
 [santo] ADJ
 [fé] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Queiram] PROP
 [ou] KC
 [não] ADV
@@ -718,7 +718,7 @@
 [título] N
 
 [Texto4] PROP
-[Paixão=Tricolor=Decisões=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Ontem]</font> PROP
+[Paixão=Tricolor=Decisões=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Ontem] PROP
 [ser] V
 [um] DET
 [domingo] N
@@ -935,7 +935,7 @@
 [Paixão] PROP
 [colorar] V
 [Contratações=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [já] ADV
 [haver] V
 [um] DET
@@ -1189,7 +1189,7 @@
 [esse] DET
 [para] PRP
 [Caxias=Christiane=Matos] PROP
-[christiane.Matos<font color="darkgreen">@diariogaucho.com.br]</font> N
+[christiane.Matos@diariogaucho.com.br] N
 [O=Inter] PROP
 [ir] V
 [dar] V
@@ -1682,7 +1682,7 @@
 [estar] V
 [perder] V
 [Roberto=Jardim] PROP
-[roberto.Jardim<font color="darkgreen">@diariogaucho.com.br]</font> N
+[roberto.Jardim@diariogaucho.com.br] N
 [há] PRP
 [exato] ADJ
 [cem] NUM
@@ -3177,7 +3177,7 @@
 [Texto8] PROP
 [Paixão=Tricolor=As] PROP
 [comparação] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [o] DET
 [primeiro] ADJ
 [rodada] N
@@ -3410,7 +3410,7 @@
 [100] NUM
 [%] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [primeiro] ADJ
 [rodada] N
@@ -3685,7 +3685,7 @@
 [ficar] V
 [pronto] ADJ
 [Eduardo=Gabardo] PROP
-[eduardo.Gabardo<font color="darkgreen">@rdgaucha.com.br]</font> N
+[eduardo.Gabardo@rdgaucha.com.br] N
 [o] DET
 [ansiedade] N
 [de] PRP
@@ -4137,7 +4137,7 @@
 [não] ADV
 [querer] V
 [calar] V
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [depois] ADV
 [de] PRP
 [um] DET
@@ -4778,7 +4778,7 @@
 [baixo] ADJ
 [aproveitamento] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [já] ADV
 [se] PERS
 [passar] V
@@ -5015,7 +5015,7 @@
 [Sete=Lagoas] PROP
 
 [Texto14] PROP
-[Paixão=Tricolor=Vestiário=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Paixão=Tricolor=Vestiário=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [ser] V
 [muito] DET
 [o] DET
@@ -5245,7 +5245,7 @@
 [civilidade] N
 [necessário] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [de] PRP
 [aqui] ADV
 [a] PRP
@@ -5679,7 +5679,7 @@
 [estreia] N
 [de] PRP
 [o] DET
-[Seleção=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Seleção=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [o] DET
 [fato] N
 [negativo] ADJ
@@ -5915,7 +5915,7 @@
 [colorar] V
 [bom=senso] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [O=Inter] PROP
 [independentemente] ADV
 [de] PRP
@@ -6314,7 +6314,7 @@
 [Texto2] PROP
 [Paixão=Tricolor=Clássico] PROP
 [sul-americano] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [por] PRP
 [o] DET
 [história] N
@@ -6764,7 +6764,7 @@
 [previsão] N
 [sombrio] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [já] ADV
 [perder] V
 [o] DET
@@ -6990,7 +6990,7 @@
 [Texto22] PROP
 [Paixão=Tricolor=O] PROP
 [favorito] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [todo=o] DET
 [circunstância] N
 [que] SPEC
@@ -7226,7 +7226,7 @@
 [para] PRP
 [trazer] V
 [Renato=Marco=Souza] PROP
-[marco.Souza<font color="darkgreen">@diariogaucho.com.br]</font> N
+[marco.Souza@diariogaucho.com.br] N
 [para] PRP
 [repetir] V
 [conquista] N
@@ -7702,7 +7702,7 @@
 [colorar] V
 [em] PRP
 [Viamão=José=Augusto=Barros] PROP
-[jose.Barros<font color="darkgreen">@diariogaucho.com.br]</font> N
+[jose.Barros@diariogaucho.com.br] N
 [jogador] N
 [de] PRP
 [o] DET
@@ -8232,7 +8232,7 @@
 [Grêmio=Gurizada] PROP
 [medonho] ADJ
 [Marco=Souza] PROP
-[marco.Souza<font color="darkgreen">@diariogaucho.com.br]</font> N
+[marco.Souza@diariogaucho.com.br] N
 [projeto] N
 [cara] N
 [novo] ADJ
@@ -8719,7 +8719,7 @@
 [Grêmio=Dilema] PROP
 [castelhano] ADJ
 [Marco=Souza] PROP
-[marco.Souza<font color="darkgreen">@diariogaucho.com.br]</font> N
+[marco.Souza@diariogaucho.com.br] N
 [Quatro] PROP
 [estrangeiro] N
 [disputar] V
@@ -9604,7 +9604,7 @@
 [para] PRP
 [inscrever] V
 [Riveros=Avançou=Marco=Souza] PROP
-[marco.Souza<font color="darkgreen">@diariogaucho.com.br]</font> N
+[marco.Souza@diariogaucho.com.br] N
 [com] PRP
 [nome] N
 [publicar] V
@@ -9772,7 +9772,7 @@
 
 [Texto28] PROP
 [Paixão=Colorada=Vantagem=do=Inter=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [O=Inter] PROP
 [encerrar] V
 [hoje] ADV
@@ -10006,7 +10006,7 @@
 [time] N
 [solidário] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Quando] PROP
 [um] DET
 [time] N
@@ -10243,7 +10243,7 @@
 
 [Texto30] PROP
 [Paixão=Tricolor=Se] PROP
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [se] KS
 [o] DET
 [grêmio] N
@@ -10474,7 +10474,7 @@
 
 [Texto31] PROP
 [Paixão=Colorada=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [ser] V
 [um] NUM
 [vitória] N
@@ -10736,7 +10736,7 @@
 [Texto32] PROP
 [Paixão=Tricolor=O] PROP
 [julgamento] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Retomo]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Retomo] PROP
 [novamente] ADV
 [o] DET
 [assunto] N
@@ -10972,7 +10972,7 @@
 [Paixão=Tricolor=Desbravador] PROP
 [de] PRP
 [caminho] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [parabéns] N
 [a] PRP
 [todo=o] DET
@@ -11210,7 +11210,7 @@
 [um] DET
 [piada] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Quando] PROP
 [terminar] V
 [o] DET
@@ -11447,7 +11447,7 @@
 [Abel] PROP
 [e] KC
 [Lúcio=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [dois] NUM
 [nome] N
 [que] SPEC
@@ -11699,7 +11699,7 @@
 [de] PRP
 [recuperação] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [time] N
 [de] PRP
@@ -11951,7 +11951,7 @@
 
 [Texto37] PROP
 [Paixão=Colorada=Árbitro=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Nunca] PROP
 [assistir] V
 [em] PRP
@@ -12185,7 +12185,7 @@
 [oficial] ADJ
 [Vasco=da=Gama] PROP
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [nós] PERS
 [que] SPEC
 [acompanhar] V
@@ -12435,7 +12435,7 @@
 [de] PRP
 [o] DET
 [Vale=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [Atlético-PR] PROP
 [próximo] ADJ
@@ -12679,7 +12679,7 @@
 [Texto40] PROP
 [Paixão=Tricolor=Desânimo] PROP
 [total] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [a] N
 [atuação] N
 [de] PRP
@@ -12910,7 +12910,7 @@
 [pouco] DET
 [futebol] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [de] PRP
 [o] DET
 [mal] N
@@ -13152,7 +13152,7 @@
 [Texto42] PROP
 [Paixão=Tricolor=Medida] PROP
 [inteligente] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Finalmente]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Finalmente] PROP
 [o] DET
 [Arena=do=Grêmio] PROP
 [estar] V
@@ -13394,7 +13394,7 @@
 [colorar] V
 [palmo=a=palmo] ADV
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [em] PRP
 [um] DET
 [jogo] N
@@ -13653,7 +13653,7 @@
 [congênito] ADJ
 
 [Texto44] PROP
-[Paixão=Tricolor=Prioridade=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Paixão=Tricolor=Prioridade=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [muitas=vezes] ADV
 [enquanto] ADV
 [dirigente] N
@@ -13883,7 +13883,7 @@
 [de] PRP
 [vencer] V
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [A=Copa=do=Brasil] PROP
 [recomeçar] V
 [hoje=à=noite] ADV
@@ -14101,7 +14101,7 @@
 [Paixão=Tricolor=Obrigação] PROP
 [de] PRP
 [vencer] V
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Não]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Não] PROP
 [ser] V
 [um] DET
 [derrota] N
@@ -14319,7 +14319,7 @@
 [ser] V
 [demais] DET
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [tarde] N
 [quase] ADV
@@ -14573,7 +14573,7 @@
 [Texto48] PROP
 [Paixão=Tricolor=Teste] PROP
 [diferente] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [em] PRP
 [o] DET
 [partida] N
@@ -14804,7 +14804,7 @@
 [Texto49] PROP
 [Paixão=Tricolor=Competência] PROP
 [puro] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Nunca]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Nunca] PROP
 [esquecer] V
 [de] PRP
 [que] SPEC
@@ -15047,7 +15047,7 @@
 [obrigação] N
 [inadiável] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [depois] ADV
 [de] PRP
 [sete] NUM
@@ -15277,7 +15277,7 @@
 [inadiável] ADJ
 
 [Texto51] PROP
-[Paixão=Tricolor=Zé=Roberto=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Inegavelmente]</font> PROP
+[Paixão=Tricolor=Zé=Roberto=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Inegavelmente] PROP
 [o] DET
 [meio] ADJ
 [Zé=Roberto] PROP
@@ -15507,7 +15507,7 @@
 [situação] N
 [ruim] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Paixão=Colorada08] PROP
 [/] KC
 [09/2013] NUM
@@ -15730,7 +15730,7 @@
 [colorar] V
 
 [Texto53] PROP
-[Paixão=Tricolor=Imparcialidade=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Não]</font> PROP
+[Paixão=Tricolor=Imparcialidade=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Não] PROP
 [poder] V
 [deixar] V
 [de] PRP
@@ -15953,7 +15953,7 @@
 [Texto54] PROP
 [Paixão=Tricolor=Reação] PROP
 [necessário] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=O=Inter]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=O=Inter] PROP
 [não] ADV
 [ter] V
 [tempo] N
@@ -16203,7 +16203,7 @@
 [ano] N
 [de] PRP
 [glória] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [em] PRP
 [este] DET
 [domingo] N
@@ -16441,7 +16441,7 @@
 [Vitória] PROP
 [merecer] V
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [O=Inter] PROP
 [fazer] V
 [ontem] ADV
@@ -16694,7 +16694,7 @@
 [de] PRP
 [o] DET
 [título] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Tenho]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Tenho] PROP
 [dizer] V
 [e] KC
 [escrever] V
@@ -16937,7 +16937,7 @@
 [novo] ADJ
 [fracasso] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [derrota] N
 [para] PRP
@@ -17186,7 +17186,7 @@
 [de] PRP
 [reinventar] V
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [mês] N
 [de] PRP
@@ -17444,7 +17444,7 @@
 [aumentar] V
 
 [Texto60] PROP
-[Paixão=Tricolor=Esperança=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Não]</font> PROP
+[Paixão=Tricolor=Esperança=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Não] PROP
 [saber] V
 [exatamente] ADV
 [o] DET
@@ -17696,7 +17696,7 @@
 [Texto61] PROP
 [Paixão=Tricolor=Nova] PROP
 [dificuldade] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Parece]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Parece] PROP
 [óbvio] ADJ
 [que] KS
 [o] DET
@@ -17943,7 +17943,7 @@
 [outro] DET
 [fracasso] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [O=Cruzeiro] PROP
 [pintar] V
 [e] KC
@@ -18205,7 +18205,7 @@
 [de] PRP
 [todo] DET
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Nem] PROP
 [tudo] SPEC
 [ser] V
@@ -18455,7 +18455,7 @@
 [emprego] N
 
 [Texto64] PROP
-[Paixão=Tricolor=Rio=de=Janeiro=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Paixão=Tricolor=Rio=de=Janeiro=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [Escrevo] PROP
 [este] DET
 [coluna] N
@@ -18697,7 +18697,7 @@
 [total] ADJ
 [a] PRP
 [Clemer=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [a] PRP
 [cada] DET
 [jogo] N
@@ -18962,7 +18962,7 @@
 [de] PRP
 [terra] N
 [arrasado] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Cometi]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Cometi] PROP
 [o] DET
 [ousadia] N
 [algum] DET
@@ -19242,7 +19242,7 @@
 [de] PRP
 [fracasso] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Kenny=Braga] PROP
 [chegar] V
 [de] PRP
@@ -19505,7 +19505,7 @@
 [Texto68] PROP
 [Paixão=Tricolor=Marcelo=Grohe] PROP
 [espetacular] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Começo]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Começo] PROP
 [com] PRP
 [o] DET
 [ressalva] N
@@ -19757,7 +19757,7 @@
 [colorar] V
 [osso=duro=de=roer] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [Santos] PROP
 [adversário] N
@@ -20028,7 +20028,7 @@
 [próprio] ADJ
 
 [Texto70] PROP
-[Paixão=Tricolor=Rescaldo=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Repercute]</font> PROP
+[Paixão=Tricolor=Rescaldo=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Repercute] PROP
 [ainda] ADV
 [o] DET
 [atuação] N
@@ -20252,7 +20252,7 @@
 [de] PRP
 [o] DET
 [clássico] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Quero]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Quero] PROP
 [fazer] V
 [um] DET
 [análise] N
@@ -20501,7 +20501,7 @@
 [faltar] V
 [planejamento] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Melancolicamente] PROP
 [mais=uma=vez] ADV
 [o] DET
@@ -20777,7 +20777,7 @@
 [Texto73] PROP
 [Paixão=Tricolor=Time] PROP
 [forte] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Imagino]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Imagino] PROP
 [que] SPEC
 [em] PRP
 [o] DET
@@ -21007,7 +21007,7 @@
 [o] DET
 [mediocridade] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [em] PRP
 [um] DET
 [jogo] N
@@ -21266,7 +21266,7 @@
 [de] PRP
 [o] DET
 [equilíbrio] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=A]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=A] PROP
 [partida] N
 [de] PRP
 [hoje=à=noite] ADV
@@ -21508,7 +21508,7 @@
 [outra=vez] ADV
 [o] DET
 [Atlético=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [time] N
 [de] PRP
@@ -21779,7 +21779,7 @@
 [o] DET
 [mesmo] DET
 [dificuldade] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [em] PRP
 [o] DET
 [jogo] N
@@ -22039,7 +22039,7 @@
 [castigo] N
 [desnecessário] ADJ
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [terrorismo] N
 [psicológico] ADJ
@@ -22270,7 +22270,7 @@
 [inter] EC
 
 [Texto79] PROP
-[Paixão=Tricolor=Rescaldo=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Embora]</font> PROP
+[Paixão=Tricolor=Rescaldo=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Embora] PROP
 [ter] V
 [entender] V
 [não] ADV
@@ -22509,7 +22509,7 @@
 [Paixão=Tricolor=Chutando] PROP
 [o] DET
 [balde] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Não]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Não] PROP
 [identificar] V
 [responsável] ADJ
 [ou] KC
@@ -22751,7 +22751,7 @@
 [clássico] ADJ
 [em] PRP
 [Minas=Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [Atlético-MG] PROP
 [adversário] N
@@ -23014,7 +23014,7 @@
 [para] PRP
 [o] DET
 [frente] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Não]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Não] PROP
 [haver] V
 [outro] DET
 [caminho] N
@@ -23295,7 +23295,7 @@
 [de] PRP
 [sorte] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [o] DET
 [Goiás] PROP
 [confirmar] V
@@ -23548,7 +23548,7 @@
 [Texto84] PROP
 [Paixão=Tricolor=Os] PROP
 [estrangeiro] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [o] DET
 [técnico] N
 [Renato=Portaluppi] PROP
@@ -23786,7 +23786,7 @@
 [o] DET
 [criador] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [ser] V
 [fácil] ADJ
 [imaginar] V
@@ -24061,7 +24061,7 @@
 [o] DET
 [ponto] N
 [corrido] ADJ
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [todo] DET
 [aquele] DET
 [que] SPEC
@@ -24322,7 +24322,7 @@
 [o] DET
 [mudança] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [O=Inter] PROP
 [encerrar] V
 [o] DET
@@ -24572,7 +24572,7 @@
 [em] PRP
 [o] DET
 [Arena=Marco=Souza] PROP
-[marco.Souza<font color="darkgreen">@diariogaucho.com.br]</font> N
+[marco.Souza@diariogaucho.com.br] N
 [Fome] PROP
 [de] PRP
 [gol] N
@@ -25027,7 +25027,7 @@
 [sempre] ADV
 [em] PRP
 [o] DET
-[Libertadores=Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Felizmente]</font> PROP
+[Libertadores=Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Felizmente] PROP
 [mais=uma=vez] ADV
 [Porto=Alegre] PROP
 [e] KC
@@ -25259,7 +25259,7 @@
 [e] KC
 [coração] N
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Hoje] PROP
 [ser] V
 [um] NUM
@@ -25525,7 +25525,7 @@
 [gol] N
 [o] DET
 [renovação] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Seguindo]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Seguindo] PROP
 [o] DET
 [linha] N
 [que] SPEC
@@ -25764,7 +25764,7 @@
 [entrevista] N
 [dispensar] V
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [vez=por=outra] ADV
 [ouvir] V
 [entrevista] N
@@ -25999,7 +25999,7 @@
 [Paixão=Tricolor=O] PROP
 [novo] ADJ
 [técnico] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br=Sigo]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br=Sigo] PROP
 [com] PRP
 [o] DET
 [sensação] N
@@ -26277,7 +26277,7 @@
 [vestiário] N
 [colorar] V
 [Kenny=Braga] PROP
-[kenny.Braga<font color="darkgreen">@diariogaucho.com.br]</font> N
+[kenny.Braga@diariogaucho.com.br] N
 [Nem] PROP
 [sempre] ADV
 [dirigente] N
@@ -26518,7 +26518,7 @@
 [de] PRP
 [o] DET
 [morte] N
-[Cacalo=Silveira=Martins=cacalo<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[Cacalo=Silveira=Martins=cacalo@diariogaucho.com.br] PROP
 [ao=contrário=de] PRP
 [o] DET
 [grande] ADJ
@@ -26784,3 +26784,4 @@
 [histórico] ADJ
 [e] KC
 [universal] ADJ
+

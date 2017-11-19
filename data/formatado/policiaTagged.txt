@@ -123,7 +123,7 @@
 [zona] N
 [norte] ADJ
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [A=Operação=Matrix] PROP
 [fechar] V
 [com] PRP
@@ -361,7 +361,7 @@
 [de] PRP
 [recolher] V
 [Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [dois] NUM
 [assassinato] N
 [ocorrer] V
@@ -1063,7 +1063,7 @@
 [em] PRP
 [o] DET
 [Vila=Júlia=Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [três] NUM
 [irmão] N
 [morrer] V
@@ -1325,7 +1325,7 @@
 [o] DET
 [local] ADJ
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [o] DET
 [morador] N
 [e] KC
@@ -1784,7 +1784,7 @@
 [estar] V
 [destruir] V
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [pelo=menos] ADV
 [nove] NUM
 [adolescente] N
@@ -1945,7 +1945,7 @@
 [para] PRP
 [o] DET
 [Região=Metropolitana=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [ação] N
 [de] PRP
@@ -2147,7 +2147,7 @@
 [Fundação=de=Atendimento=Socioeducativo] PROP
 [fase] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [Eles] PROP
 [ser] V
 [pequeno] ADJ
@@ -4893,7 +4893,7 @@
 [o] DET
 [violência] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [dois] NUM
 [ano] N
 [depois] ADV
@@ -5927,7 +5927,7 @@
 [em] PRP
 [2013] NUM
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [ataque] N
 [a] PRP
@@ -7045,7 +7045,7 @@
 [se] PERS
 [enforcar] V
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [o] DET
 [polícia] N
 [liberar] V
@@ -7599,7 +7599,7 @@
 [antecedente] N
 [criminal] ADJ
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [jovem] ADJ
 [de] PRP
@@ -7725,7 +7725,7 @@
 [ser] V
 [questionar] V
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [o] DET
 [titular] N
 [de] PRP
@@ -9116,7 +9116,7 @@
 [o] DET
 [traficante] N
 [Paulão=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [haver] V
 [um] DET
 [rei] N
@@ -10123,7 +10123,7 @@
 [o] DET
 [cofre] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [o] DET
 [grupo] N
 [que] SPEC
@@ -10314,7 +10314,7 @@
 [final=de=semana] N
 [passado] ADJ
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [conhecer] V
@@ -11227,7 +11227,7 @@
 [em] PRP
 [o] DET
 [Rua=Guilherme=Alves=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [polícia] N
 [suspeito] ADJ
 [de] PRP
@@ -11515,7 +11515,7 @@
 [o] DET
 [violência] N
 [Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [Apenas] PROP
 [por] PRP
 [morar] V
@@ -12946,7 +12946,7 @@
 [o] DET
 [região] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [o] DET
 [polícia] N
 [desencadear] V
@@ -13106,7 +13106,7 @@
 [o] DET
 [padaria] N
 [Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [um] DET
 [tentativa] N
 [de] PRP
@@ -13382,7 +13382,7 @@
 [em] PRP
 [o] DET
 [Capital=Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [montagem] N
 [divulgar] V
 [por] PRP
@@ -13523,7 +13523,7 @@
 [por] PRP
 [namorada] N
 [Renato=Gava] PROP
-[renato.Gava<font color="darkgreen">@diariogaucho.com.br]</font> N
+[renato.Gava@diariogaucho.com.br] N
 [um] DET
 [jovem] ADJ
 [de] PRP
@@ -13863,7 +13863,7 @@
 [de] PRP
 [homicídio] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [Homem] PROP
 [de] PRP
 [46] NUM
@@ -14022,7 +14022,7 @@
 [este] DET
 [ano] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [em] PRP
 [seis] NUM
 [mês] N
@@ -16078,7 +16078,7 @@
 [este] DET
 [sexta-feira] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [A=Polícia=Civil] PROP
 [procura] N
 [ainda] ADV
@@ -16354,7 +16354,7 @@
 [o] DET
 [casa] N
 [Renato=Gava] PROP
-[renato.Gava<font color="darkgreen">@diariogaucho.com.br]</font> N
+[renato.Gava@diariogaucho.com.br] N
 [dois] NUM
 [dia] N
 [depois] ADV
@@ -17007,7 +17007,7 @@
 [calibre] N
 [22] NUM
 [Renato=Gava] PROP
-[renato.Gava<font color="darkgreen">@diariogaucho.com.br]</font> N
+[renato.Gava@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -17356,7 +17356,7 @@
 [de] PRP
 [ela] PERS
 [Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [ex-morador] N
 [de] PRP
 [o] DET
@@ -18265,7 +18265,7 @@
 [por] PRP
 [dia] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [o] DET
 [cair] V
 [de] PRP
@@ -18915,7 +18915,7 @@
 [jóia] N
 [em] PRP
 [Cotiporã=Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [Foragido] PROP
 [de] PRP
 [o] DET
@@ -19083,7 +19083,7 @@
 [muito] DET
 [arma] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [Foto] PROP
 [de] PRP
 [adolescente] N
@@ -19380,8 +19380,8 @@
 [fogo] N
 [Eduardo=Torres] PROP
 [Taís=Seibt] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
-[tais.Seibt<font color="darkgreen">@zerohora.com.br]</font> PROP
+[eduardo.Torres@diariogaucho.com.br] N
+[tais.Seibt@zerohora.com.br] PROP
 [escola] N
 [incendiar] V
 [em] PRP
@@ -20078,7 +20078,7 @@
 [em] PRP
 [o] DET
 [Presídio=Central=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [além=de] PRP
 [manter] V
 [perfil] N
@@ -20669,7 +20669,7 @@
 [o] DET
 [ano] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [ele] PERS
 [ser] V
 [um] DET
@@ -21366,7 +21366,7 @@
 [de] PRP
 [julho] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [ser] V
 [prender] V
 [em] PRP
@@ -21709,7 +21709,7 @@
 [fazer] V
 [compra] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [testemunha] N
 [relatar] V
 [que] KS
@@ -22142,7 +22142,7 @@
 [o] DET
 [ladrão] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [por] PRP
 [segurança] N
 [morador] N
@@ -22865,7 +22865,7 @@
 [um] DET
 [execução] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [dois] NUM
 [jovem] ADJ
 [ser] V
@@ -23283,7 +23283,7 @@
 [o] DET
 [região] N
 [Roberta=Schuler] PROP
-[roberta.Schuler<font color="darkgreen">@diariogaucho.com.br]</font> N
+[roberta.Schuler@diariogaucho.com.br] N
 [um] DET
 [bebê] N
 [de] PRP
@@ -23483,7 +23483,7 @@
 [ser] V
 [assassinar] V
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [Entrar] PROP
 [para] PRP
 [o] DET
@@ -24604,7 +24604,7 @@
 [dois] NUM
 [dia] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [A=Polícia=Civil=de=Canoas] PROP
 [investigar] V
 [o] DET
@@ -25220,7 +25220,7 @@
 [em] PRP
 [2013] NUM
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [pelo=menos] ADV
 [sete] NUM
 [pessoa] N
@@ -26052,7 +26052,7 @@
 [o] DET
 [criminoso] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [o] DET
 [esquema] N
 [de] PRP
@@ -26514,7 +26514,7 @@
 [de] PRP
 [outubro] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -26628,7 +26628,7 @@
 [15] NUM
 [ano] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -26775,7 +26775,7 @@
 [oito] NUM
 [detento] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [o] DET
 [busca] N
 [ser] V
@@ -26922,7 +26922,7 @@
 [o] DET
 [bairro] N
 [Sarandi=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -27294,7 +27294,7 @@
 [15] NUM
 [assalto] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [Foi] PROP
 [entregar] V
 [a] PRP
@@ -27437,7 +27437,7 @@
 [o] DET
 [esposa] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [policial] N
 [civil] ADJ
 [de] PRP
@@ -27588,7 +27588,7 @@
 [prisão=preventiva] N
 [decretar] V
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [durante] PRP
 [o] DET
 [ação] N
@@ -27777,7 +27777,7 @@
 [o] DET
 [escola] N
 [Carlos=Ismael=Moreira] PROP
-[carlos.Ismael<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carlos.Ismael@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -28155,7 +28155,7 @@
 [ser] V
 [assassinar] V
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [por] PRP
 [o] DET
 [sexto] ADJ
@@ -28856,7 +28856,7 @@
 [em] PRP
 [o] DET
 [Bairro=Santa=Fé=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [adolescente] N
 [de] PRP
@@ -29015,7 +29015,7 @@
 [de] PRP
 [violência] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [Não] PROP
 [haver] V
 [informação] N
@@ -29152,7 +29152,7 @@
 [tráfico] N
 [em] PRP
 [Alvorada=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [dois] NUM
 [adolescente] N
 [de] PRP
@@ -29324,7 +29324,7 @@
 [o] DET
 [Avenida=dos=Prazeres] PROP
 [Vila=Jardim=Renato=Gava] PROP
-[renato.Gava<font color="darkgreen">@diariogaucho.com.br]</font> N
+[renato.Gava@diariogaucho.com.br] N
 [um] DET
 [duplo] ADJ
 [homicídio] N
@@ -29500,7 +29500,7 @@
 [o] DET
 [aumento] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [agente] ADJ
 [de] PRP
 [o] DET
@@ -29852,7 +29852,7 @@
 [motivação] N
 [passional] ADJ
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [um] DET
 [crime] N
 [brutal] ADJ
@@ -30167,7 +30167,7 @@
 [dois] NUM
 [ano] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [desde] PRP
 [o] DET
 [tarde] N
@@ -30985,7 +30985,7 @@
 [agência] N
 [lotérico] ADJ
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [quatro] NUM
 [homem] N
 [armar] V
@@ -31062,7 +31062,7 @@
 [Bairro=Piratini] PROP
 [em] PRP
 [Alvorada=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [o] DET
 [polícia] N
 [apurar] V
@@ -31174,7 +31174,7 @@
 [o] DET
 [cabeça] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [ser] V
@@ -31319,7 +31319,7 @@
 [assalto] N
 [em] PRP
 [Viamão=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [Foi] PROP
 [prender] V
 [em] PRP
@@ -31441,7 +31441,7 @@
 [em] PRP
 [o] DET
 [Bairro=Aberta=dos=Morros=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [jovem] ADJ
 [identificar] V
@@ -31572,7 +31572,7 @@
 [o] DET
 [região] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [aparentar] V
@@ -31702,7 +31702,7 @@
 [em] PRP
 [o] DET
 [Bairro=Jardim=Carvalho=Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [um] DET
 [homem] N
 [de] PRP
@@ -32054,7 +32054,7 @@
 [o] DET
 [vítima] N
 [Carolina=Rocha] PROP
-[carolina.Rocha<font color="darkgreen">@diariogaucho.com.br]</font> N
+[carolina.Rocha@diariogaucho.com.br] N
 [seis] NUM
 [homem] N
 [ser] V
@@ -32275,7 +32275,7 @@
 [com] PRP
 [seqüela] N
 [Eduardo=Torres] PROP
-[eduardo.Torres<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Torres@diariogaucho.com.br] N
 [Foi] PROP
 [apreender] V
 [em] PRP
@@ -32438,7 +32438,7 @@
 [em] PRP
 [Porto=Alegre] PROP
 [Aline=Custódio] PROP
-[aline.Custodio<font color="darkgreen">@diariogaucho.com.br]</font> N
+[aline.Custodio@diariogaucho.com.br] N
 [morador] ADJ
 [e] KC
 [comerciante] N
@@ -32821,3 +32821,4 @@
 [apontar] V
 [o] DET
 [comandante] N
+

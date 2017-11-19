@@ -6,7 +6,7 @@
 [combinar] V
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [orientação] N
 [de] PRP
@@ -367,7 +367,7 @@
 [Ipiranga] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [prazo] N
 [de] PRP
@@ -697,7 +697,7 @@
 [Teresa] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [Faltando] PROP
 [um=pouco] ADV
 [mais=de] ADV
@@ -1015,7 +1015,7 @@
 [comerciante] N
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [dia] N
 [seco] ADJ
@@ -1329,7 +1329,7 @@
 [Bairro=Partenon=Por] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [como=se] KS
 [não] ADV
 [bastar] V
@@ -1659,7 +1659,7 @@
 [Por] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [por=aqui] ADV
 [a] PRP
 [o] DET
@@ -2095,7 +2095,7 @@
 [Viamão] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [Quando] PROP
 [receber] V
 [o] DET
@@ -2390,7 +2390,7 @@
 [recuo] N
 [em] PRP
 [Viamão=Por=Amanda=Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [que] SPEC
 [ser] V
@@ -2684,7 +2684,7 @@
 [por] PRP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [Desespero] PROP
 [Essa] PROP
 [ser] V
@@ -3281,7 +3281,7 @@
 [Por] PROP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [Quem] PROP
 [precisar] V
 [transitar] V
@@ -3599,7 +3599,7 @@
 [em] PRP
 [o] DET
 [Bairro=Chácara=das=Pedras=Por=Amanda=Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [um] DET
 [espera] N
 [sem] PRP
@@ -3864,7 +3864,7 @@
 [por] PRP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [faca] N
 [de] PRP
@@ -4326,7 +4326,7 @@
 [por] PRP
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [se] KS
 [ficar] V
 [o] DET
@@ -4657,7 +4657,7 @@
 [lagoa] N
 [indesejado] ADJ
 [Por=Amanda=Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [o] DET
 [casa] N
 [já] ADV
@@ -5066,7 +5066,7 @@
 [endereço] N
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [se] KS
 [cada=um] SPEC
 [fazer] V
@@ -5402,7 +5402,7 @@
 [só] ADV
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [são] ADJ
 [cerca=de] ADV
 [300] NUM
@@ -5713,7 +5713,7 @@
 [chuva] N
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [Como=Teresa=Britto] PROP
 [70] NUM
 [ano] N
@@ -6040,7 +6040,7 @@
 [caminhar] V
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [qual] DET
 [mãe] N
 [não] ADV
@@ -6452,7 +6452,7 @@
 [cama] N
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [se] KS
 [depender] V
 [só] ADV
@@ -6860,7 +6860,7 @@
 [escola] N
 [Amanda] PROP
 [Munhoz] PROP
-[amanda.Munhoz<font color="darkgreen">@diariogaucho.com.br]</font> N
+[amanda.Munhoz@diariogaucho.com.br] N
 [a] PRP
 [o] DET
 [que] SPEC
@@ -7137,7 +7137,7 @@
 [Bairro=Rubem=Berta] PROP
 [Denise] PROP
 [Waskow] PROP
-[denise.Waskow<font color="darkgreen">@diariogaucho.com.br]</font> N
+[denise.Waskow@diariogaucho.com.br] N
 [Quando] PROP
 [deixar] V
 [de] PRP
@@ -7530,7 +7530,7 @@
 [Waskow] PROP
 [deniser] V
 [wascow] N
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [espírito] N
@@ -7931,7 +7931,7 @@
 [Campo=da=Tuca=DENISE=WASKOv] PROP
 [deniser] V
 [wascov] N
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [ser] V
@@ -8371,7 +8371,7 @@
 [por] PRP
 [Eduardo] PROP
 [Rodrigues] PROP
-[eduardo.Rodrigues<font color="darkgreen">@diariogaucho.com.br]</font> N
+[eduardo.Rodrigues@diariogaucho.com.br] N
 [A=Rua=U] PROP
 [antigo] ADJ
 [Goiás] PROP
@@ -8630,7 +8630,7 @@
 [de] PRP
 [o] DET
 [Bairro=Santa=Teresa=Por=DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [toda=vez=que] ADV
@@ -9063,7 +9063,7 @@
 [acessibilidade] N
 [por] PRP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -9409,7 +9409,7 @@
 [quebrar] V
 [trocar] V
 [Por=Roberta=Schuler] PROP
-[roberta.Schuler<font color="darkgreen">@diariogaucho.com.br]</font> N
+[roberta.Schuler@diariogaucho.com.br] N
 [em] PRP
 [o] DET
 [começo] N
@@ -9811,7 +9811,7 @@
 [por] PRP
 [ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -10179,7 +10179,7 @@
 [em] PRP
 [o] DET
 [Bairro=Partenon=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -10537,7 +10537,7 @@
 [Por] PROP
 [CÁREN] PROP
 [Cecília=Baldo-cárenceciliabaldo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -11027,7 +11027,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília=Baldo-cárenceciliabaldo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -11404,7 +11404,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília=Baldo-cárenceciliabaldo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -11776,7 +11776,7 @@
 [andar] V
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [com] PRP
@@ -12141,7 +12141,7 @@
 [em] PRP
 [o] DET
 [Vila=Dique=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [ter] V
@@ -12506,7 +12506,7 @@
 [sujo] ADJ
 [Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -12809,7 +12809,7 @@
 [o] DET
 [Bairro=Agronomia=Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [vizinhar] V
@@ -13149,7 +13149,7 @@
 [incomodar] V
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] NUM
@@ -13579,7 +13579,7 @@
 [Porto=Alegre] PROP
 [Por] PROP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [em] PRP
@@ -13906,7 +13906,7 @@
 [em] PRP
 [o] DET
 [Bairro=Cascata=Por=EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Na=Rua=Francisco=Martins] PROP
@@ -14265,7 +14265,7 @@
 [ano] N
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [três] NUM
@@ -14589,7 +14589,7 @@
 [em] PRP
 [o] DET
 [Bairro=Bom=Jesus=Por=DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [entre] PRP
@@ -14900,7 +14900,7 @@
 [canoa] N
 [por] PRP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Olhe] PROP
@@ -15257,7 +15257,7 @@
 [em] PRP
 [o] DET
 [Bairro=Partenon=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [morador] ADJ
@@ -15585,7 +15585,7 @@
 [Viamão] PROP
 [Por] PROP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [há] PRP
@@ -15906,7 +15906,7 @@
 [Viamão] PROP
 [Por] PROP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [ser] V
@@ -16304,7 +16304,7 @@
 [Alvorada] PROP
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -16725,7 +16725,7 @@
 
 [Texto47] PROP
 [Esqueceram=da=Evelyn=Por=Roberta=Schuler] PROP
-[roberta.Schuler<font color="darkgreen">@diariogaucho.com.br]</font> N
+[roberta.Schuler@diariogaucho.com.br] N
 [o] DET
 [direito] N
 [de] PRP
@@ -17131,7 +17131,7 @@
 [em] PRP
 [o] DET
 [Zona=Sul=da=Capital=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [mesmo] DET
@@ -17406,7 +17406,7 @@
 [o] DET
 [Bairro=Restinga=Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -17820,7 +17820,7 @@
 [em] PRP
 [o] DET
 [Bairro=Hípica=Por=EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Quando] PROP
@@ -18160,7 +18160,7 @@
 [atravessar] V
 [por] PRP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [se] KS
@@ -18500,7 +18500,7 @@
 [Hípica] PROP
 [por] PRP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [por] PRP
@@ -18903,7 +18903,7 @@
 [Porto=Alegre] PROP
 [Por] PROP
 [Carolina=Rocha-carolinarocha] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [elevador] N
@@ -19235,7 +19235,7 @@
 [o] DET
 [Morro=Santana=Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -19654,7 +19654,7 @@
 [em] PRP
 [o] DET
 [Bairro=Sarandi=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -19987,7 +19987,7 @@
 [religioso] ADJ
 [por] PRP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -20760,7 +20760,7 @@
 [supermercado] N
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [há] PRP
@@ -21028,7 +21028,7 @@
 [Porto=Alegre] PROP
 [Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [um] DET
@@ -21297,7 +21297,7 @@
 [156] NUM
 [por] PRP
 [e-mail] N
-[156<font color="darkgreen">@smgl.prefpoa.com.br]</font> PROP
+[156@smgl.prefpoa.com.br] PROP
 [ou] KC
 [pessoal] ADV
 [em] PRP
@@ -21409,7 +21409,7 @@
 [Mario=Quintana] PROP
 [Por] PROP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Quase] PROP
@@ -21942,7 +21942,7 @@
 [canoa] N
 [por] PRP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [durante] PRP
@@ -22345,7 +22345,7 @@
 [Viamão] PROP
 [Por] PROP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [receber] V
@@ -22748,7 +22748,7 @@
 [Alvorada] PROP
 [por] PRP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [sem] PRP
@@ -23339,7 +23339,7 @@
 [Luiz] PROP
 [armar] V
 [VAZ-luisarmandov] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -23666,7 +23666,7 @@
 [Esteio] PROP
 [por] PRP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [de] PRP
@@ -24051,7 +24051,7 @@
 [Viamão] PROP
 [Por] PROP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Não] PROP
@@ -24496,7 +24496,7 @@
 [Esteio] PROP
 [por] PRP
 [ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [perigo=de=morte] N
@@ -24788,7 +24788,7 @@
 [em] PRP
 [o] DET
 [Zona=Sul=Por=ROBERTA=SCHULER-robertaschuler] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Enquanto] PROP
@@ -25069,7 +25069,7 @@
 [bem] ADV
 [por] PRP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font>[diáriogaúcho] N
+[@][diáriogaúcho] N
 [com.br] N
 [o] DET
 [tentativa] N
@@ -25422,7 +25422,7 @@
 [por] PRP
 [ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Poeira] PROP
@@ -25811,7 +25811,7 @@
 [o] DET
 [Bairro=Aparício=Borges=Por=ALINE] PROP
 [Custódio-alinecustódio ALT xxxo] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [de] PRP
@@ -26074,7 +26074,7 @@
 [piorar] V
 [por] PRP
 [EDUARDO=RODRIGUES-eduardorodrigue] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [Você] PROP
@@ -26344,7 +26344,7 @@
 [João] PROP
 [Por] PROP
 [DENISE=WASKOW-denisewaskow] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diáriogaúcho] ADJ
 [com.br] N
 [o] DET
@@ -27051,3 +27051,4 @@
 [08:00hs] NUM
 [categoria] N
 [asfalto] N
+

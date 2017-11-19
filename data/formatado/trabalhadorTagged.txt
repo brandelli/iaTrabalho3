@@ -6,7 +6,7 @@
 [Cáren] PROP
 [Cecília] PROP
 [baldo] ADJ
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [número] N
 [de] PRP
@@ -866,7 +866,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [até] PRP
 [o] DET
 [11h] NUM
@@ -967,7 +967,7 @@
 [ter] V
 [deficiência] N
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [contingente] N
 [de] PRP
@@ -1229,7 +1229,7 @@
 [enviar] V
 [currículo] N
 [para] PRP
-[rh<font color="darkgreen">@empregoppds.com.br]</font> PROP
+[rh@empregoppds.com.br] PROP
 [ou] KC
 [ligar] V
 [para] PRP
@@ -1338,7 +1338,7 @@
 [enviar] V
 [currículo] N
 [para] PRP
-[recrutamento<font color="darkgreen">@ladiversita.com.br]</font> N
+[recrutamento@ladiversita.com.br] N
 [ou] KC
 [ligar] V
 [para] PRP
@@ -1361,7 +1361,7 @@
 [enviar] V
 [currículo] N
 [para] PRP
-[paula.Melo<font color="darkgreen">@paconline.com.br.]</font> PROP
+[paula.Melo@paconline.com.br.] PROP
 [Egalit=Vagas] PROP
 [80] NUM
 [cargo] N
@@ -2768,7 +2768,7 @@
 [muito] ADV
 [notável] ADJ
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [a] PRP
 [o] DET
 [procurar] V
@@ -3341,7 +3341,7 @@
 [feira] N
 [internacional] ADJ
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [Sebrae-RS] PROP
 [estar] V
@@ -3576,7 +3576,7 @@
 [contratar] V
 [em] PRP
 [Curitiba=Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [NTT] PROP
 [datar] V
@@ -3672,7 +3672,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[rhselecao<font color="darkgreen">@nttdata.com.]</font> PROP
+[rhselecao@nttdata.com.] PROP
 [Postado] PROP
 [por] PRP
 [Cáren=Cecília=Baldo] PROP
@@ -4020,7 +4020,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[talenttus<font color="darkgreen">@talenttus.com.br.]</font> PROP
+[talenttus@talenttus.com.br.] PROP
 [Leitora] PROP
 [faturar] V
 [livr] N
@@ -4173,7 +4173,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[recrutamento.Poa<font color="darkgreen">@habibs.com.br]</font> PROP
+[recrutamento.Poa@habibs.com.br] PROP
 [ou] KC
 [ligar] V
 [para] PRP
@@ -4251,7 +4251,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[vagas<font color="darkgreen">@planejarrh.com.br]</font> PROP
+[vagas@planejarrh.com.br] PROP
 [ou] KC
 [ligar] V
 [para] PRP
@@ -4280,7 +4280,7 @@
 [todo=o] DET
 [capital] N
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [A=Comissão=de=Trabalho] PROP
 [de] PRP
 [administração] N
@@ -4712,7 +4712,7 @@
 [apontar] V
 [pesquisa] N
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [grande] ADJ
 [quantidade] N
@@ -5550,7 +5550,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[inclusao<font color="darkgreen">@carrefour.com.]</font> PROP
+[inclusao@carrefour.com.] PROP
 [Postado] PROP
 [por] PRP
 [Espaço=do=Trabalhador] PROP
@@ -5889,7 +5889,7 @@
 [mil] NUM
 [profissional] N
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [O=Ministério=do=Planejamento] PROP
 [autorizar] V
 [o] DET
@@ -6000,7 +6000,7 @@
 [/] KC
 [título] N
 [Por=Cáren=Cecília=Baldo] PROP
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [o] DET
 [empresa] N
 [Redebrasil=Gestão=de=Ativos] PROP
@@ -6065,7 +6065,7 @@
 [por] PRP
 [o] DET
 [e-mail] N
-[equipe.Treinamento<font color="darkgreen">@redebrasil.com.br.]</font> N
+[equipe.Treinamento@redebrasil.com.br.] N
 [Postado] PROP
 [por] PRP
 [Espaço=do=Trabalhador] PROP
@@ -6330,7 +6330,7 @@
 [por] PRP
 [o] DET
 [e-mail] N
-[selecaofarma<font color="darkgreen">@panvel.com.br]</font> PROP
+[selecaofarma@panvel.com.br] PROP
 [ou] KC
 [por] PRP
 [o] DET
@@ -6850,7 +6850,7 @@
 [telefone] N
 [3224-0296] NUM
 [e-mail] N
-[esvpars<font color="darkgreen">@gmail.com]</font> PROP
+[esvpars@gmail.com] PROP
 [ou] KC
 [www.facebook.com/esvpoa] PROP
 [postar] V
@@ -7301,7 +7301,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [curso] N
 [ensino] N
@@ -7502,7 +7502,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -7915,7 +7915,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [curso] N
 
@@ -8545,7 +8545,7 @@
 [por] PRP
 [Lisiane] PROP
 [Lisboa-LisianeLisboa] PROP
-[<font color="darkgreen">@]</font>[DiárioGaúcho] PROP
+[@][DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
 [vaga] N
@@ -9075,7 +9075,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [pesquisa] N
 
@@ -9137,7 +9137,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[recruta<font color="darkgreen">@cmcrh.com.br.]</font> PROP
+[recruta@cmcrh.com.br.] PROP
 [Leia] PROP
 [muito] DET
 [Oportunidades] PROP
@@ -9169,7 +9169,7 @@
 [Pradella-Michele] PROP
 [Vaz] PROP
 [Pradella] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -9240,7 +9240,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[recursoshumanos<font color="darkgreen">@aludmax.com.br]</font> PROP
+[recursoshumanos@aludmax.com.br] PROP
 [ou] KC
 [entre] PRP
 [em] PRP
@@ -9281,7 +9281,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -9608,7 +9608,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [curso] N
 
@@ -10098,7 +10098,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -10382,7 +10382,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -10460,7 +10460,7 @@
 [Pradella-Michele] PROP
 [Vaz] PROP
 [Pradella] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -10977,7 +10977,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -11058,13 +11058,13 @@
 [enviar] V
 [currículo] N
 [para] PRP
-[patricia<font color="darkgreen">@riversides.com.br.]</font> PROP
+[patricia@riversides.com.br.] PROP
 [Postado] PROP
 [por] PRP
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11157,7 +11157,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11384,13 +11384,13 @@
 [enviar] V
 [ela] PERS
 [para] PRP
-[empregos<font color="darkgreen">@diariogaucho.com.br.]</font> PROP
+[empregos@diariogaucho.com.br.] PROP
 [Postado] PROP
 [por] PRP
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11562,7 +11562,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11657,13 +11657,13 @@
 [enviar] V
 [ela] PERS
 [para] PRP
-[empregos<font color="darkgreen">@diariogaucho.com.br]</font> PROP
+[empregos@diariogaucho.com.br] PROP
 [Postado] PROP
 [por] PRP
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11734,7 +11734,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[lea<font color="darkgreen">@chancemasterrh.com.br.]</font> PROP
+[lea@chancemasterrh.com.br.] PROP
 [muito] DET
 [informação] N
 [3225-7233] NUM
@@ -11745,7 +11745,7 @@
 [Pradella-Michele] PROP
 [Vaz] PROP
 [Pradella] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -11955,7 +11955,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [concurso] N
 
@@ -12132,13 +12132,13 @@
 [enviar] V
 [ela] PERS
 [para] PRP
-[empregos<font color="darkgreen">@diariogaucho.com.br.]</font> PROP
+[empregos@diariogaucho.com.br.] PROP
 [Postado] PROP
 [por] PRP
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -12226,7 +12226,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -12540,7 +12540,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -12625,7 +12625,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[rhbrasil13<font color="darkgreen">@gmail.com.]</font> PROP
+[rhbrasil13@gmail.com.] PROP
 [muito] DET
 [informação] N
 [3012-6000] NUM
@@ -12634,7 +12634,7 @@
 [Lisiane] PROP
 [Lisboa-Lisiane] PROP
 [Lisboa] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [Diário=Gaúcho] PROP
 [com.br] N
 [categoria] N
@@ -13022,7 +13022,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -13238,7 +13238,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -13581,7 +13581,7 @@
 [por] PRP
 [KARINE=WENZEL-Karine] PROP
 [Wenzel] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diário] ADJ
 [gaúcho] N
 [com.br] N
@@ -13817,7 +13817,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -13895,7 +13895,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -14125,7 +14125,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -14308,7 +14308,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[coomped.Canoas<font color="darkgreen">@gmail.com]</font> PROP
+[coomped.Canoas@gmail.com] PROP
 [ou] KC
 [entregar] V
 [ele] PERS
@@ -14330,7 +14330,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [Categoria] PROP
@@ -14418,7 +14418,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -14575,7 +14575,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -14671,7 +14671,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [Categoria] PROP
@@ -14821,7 +14821,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -14873,13 +14873,13 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[renata.Lima<font color="darkgreen">@gigroup.com.]</font> PROP
+[renata.Lima@gigroup.com.] PROP
 [Postado] PROP
 [por] PRP
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [Categoria] PROP
@@ -15319,7 +15319,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [lei] N
 [trabalhista] ADJ
@@ -15608,7 +15608,7 @@
 [Pradella-Michele] PROP
 [Vaz] PROP
 [Pradella] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -15911,7 +15911,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -16563,7 +16563,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -16649,7 +16649,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -16733,7 +16733,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -16749,7 +16749,7 @@
 [CÁREN] PROP
 [Cecília] PROP
 [baldo] ADJ
-[caren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[caren.Baldo@diariogaucho.com.br] N
 [com] PRP
 [cerca=de] ADV
 [2,4] NUM
@@ -17353,7 +17353,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -17472,7 +17472,7 @@
 [Tiago] PROP
 [Rech-Tiago] PROP
 [Rech] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [DiárioGaúcho] PROP
 [com.br] N
 [categoria] N
@@ -18312,7 +18312,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -18395,7 +18395,7 @@
 [Lisiane] PROP
 [Lisboa-Laisiane] PROP
 [Lisboa] PROP
-[<font color="darkgreen">@]</font> PROP
+[@] PROP
 [diário] ADJ
 [gaúcho] N
 [com.br] N
@@ -18458,7 +18458,7 @@
 [e-mail] N
 [para] PRP
 [rh] N
-[<font color="darkgreen">@]</font>[quero-quero] N
+[@][quero-quero] N
 [com.br] N
 [com] PRP
 [o] DET
@@ -18476,7 +18476,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -18553,7 +18553,7 @@
 [enviar] V
 [e-mail] N
 [para] PRP
-[ipgs<font color="darkgreen">@ipgs.com.br.]</font> PROP
+[ipgs@ipgs.com.br.] PROP
 [o] DET
 [evento] N
 [acontecer] V
@@ -18578,7 +18578,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [anotar] V
 [aí] ADV
@@ -18888,7 +18888,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [concurso] N
 
@@ -18969,7 +18969,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -19070,7 +19070,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [curso] N
 
@@ -19176,7 +19176,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -19256,7 +19256,7 @@
 [por] PRP
 [e-mail] N
 [para] PRP
-[recrutamento3<font color="darkgreen">@estilorh.com.br]</font> PROP
+[recrutamento3@estilorh.com.br] PROP
 [mencionar] V
 [em] PRP
 [o] DET
@@ -19272,7 +19272,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
 
@@ -19433,6 +19433,7 @@
 [por] PRP
 [CÁREN] PROP
 [Cecília] PROP
-[BALDOcaren.Baldo<font color="darkgreen">@diariogaucho.com.br]</font> N
+[BALDOcaren.Baldo@diariogaucho.com.br] N
 [categoria] N
 [vaga] N
+
