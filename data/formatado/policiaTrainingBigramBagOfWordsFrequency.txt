@@ -1,0 +1,10 @@
+[de] [ano] 115
+[ano] [ser] 68
+[ser] [de] 47
+[ser] [prender] 44
+[de] [tráfico] 43
+[de=acordo] [com] 41
+[estar] [em] 39
+[não] [ser] 38
+[de] [crime] 37
+[ser] [encontrar] 35

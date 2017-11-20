@@ -1,0 +1,10 @@
+[time] [de] 39
+[de] [time] 37
+[não] [ser] 36
+[paixão] [colorar] 30
+[de] [futebol] 28
+[em] [jogo] 28
+[kenny=braga] [kenny.braga@diariogaucho.com.br] 26
+[jogo] [de] 26
+[de] [jogo] 25
+[não] [poder] 25

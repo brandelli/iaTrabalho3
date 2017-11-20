@@ -1,0 +1,10 @@
+[auxiliar] [de] 58
+[postar] [por] 37
+[de] [trabalho] 34
+[técnico] [em] 27
+[dia] [de] 23
+[categoria] [vaga] 22
+[em] [área] 22
+[postado] [por] 21
+[com.br] [categoria] 20
+[estar] [com] 20

@@ -1,0 +1,10 @@
+[ser] 70
+[r] 55
+[inscrição] 39
+[vaga] 28
+[ter] 26
+[curso] 25
+[cr] 20
+[salário] 18
+[estar] 18
+[técnico] 18

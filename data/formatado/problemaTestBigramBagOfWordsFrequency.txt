@@ -1,0 +1,10 @@
+[a] [categoria] 14
+[diáriogaúcho] [com.br] 13
+[@] [diáriogaúcho] 13
+[postar] [por] 12
+[em] [local] 11
+[depois] [de] 11
+[morador] [de] 11
+[de] [casa] 11
+[casa] [de] 9
+[de] [lixo] 9

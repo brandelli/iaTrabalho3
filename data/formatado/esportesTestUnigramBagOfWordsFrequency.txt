@@ -1,0 +1,10 @@
+[ser] 124
+[não] 44
+[ter] 36
+[time] 34
+[muito] 33
+[grêmio] 27
+[estar] 26
+[jogo] 23
+[colorar] 22
+[fazer] 21

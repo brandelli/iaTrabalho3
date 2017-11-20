@@ -1,0 +1,10 @@
+[ser] 485
+[não] 236
+[ter] 185
+[time] 161
+[jogo] 132
+[estar] 128
+[grêmio] 102
+[muito] 99
+[fazer] 93
+[técnico] 92

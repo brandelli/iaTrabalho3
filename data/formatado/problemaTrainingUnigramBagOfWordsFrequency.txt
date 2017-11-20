@@ -1,0 +1,10 @@
+[ser] 485
+[não] 204
+[ano] 177
+[estar] 169
+[ter] 162
+[fazer] 115
+[morador] 87
+[já] 79
+[prefeitura] 74
+[local] 73

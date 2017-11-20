@@ -1,0 +1,10 @@
+[ser] 121
+[ano] 44
+[ter] 38
+[não] 30
+[homem] 25
+[estar] 21
+[matar] 21
+[encontrar] 19
+[carro] 17
+[crime] 16

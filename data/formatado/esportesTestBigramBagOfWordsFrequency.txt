@@ -1,0 +1,10 @@
+[de] [grêmio] 12
+[de] [time] 10
+[de] [clube] 10
+[em] [brasileirão] 9
+[de] [brasileirão] 9
+[em] [jogo] 9
+[de] [técnico] 8
+[paixão] [colorar] 8
+[kenny=braga] [kenny.braga@diariogaucho.com.br] 7
+[em] [momento] 7

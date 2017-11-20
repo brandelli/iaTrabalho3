@@ -1,0 +1,10 @@
+[ser] 335
+[estar] 96
+[vaga] 94
+[ter] 90
+[curso] 80
+[auxiliar] 70
+[categoria] 68
+[ano] 63
+[dever] 61
+[não] 57

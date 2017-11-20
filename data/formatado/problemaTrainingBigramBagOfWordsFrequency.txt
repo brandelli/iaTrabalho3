@@ -1,0 +1,10 @@
+[a] [categoria] 59
+[postar] [por] 52
+[em] [local] 41
+[não] [ser] 39
+[diáriogaúcho] [com.br] 34
+[@] [diáriogaúcho] 34
+[ser] [fazer] 31
+[de] [casa] 30
+[por] [tiago=rech] 30
+[de] [ano] 30

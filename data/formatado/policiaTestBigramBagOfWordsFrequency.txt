@@ -1,0 +1,10 @@
+[de] [ano] 24
+[ano] [ser] 14
+[ser] [matar] 13
+[ser] [encontrar] 9
+[de] [crack] 9
+[ser] [de] 8
+[homem] [ser] 8
+[de] [crime] 7
+[tiro] [em] 7
+[de=acordo] [com] 7

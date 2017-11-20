@@ -1,0 +1,10 @@
+[ser] 125
+[não] 55
+[estar] 48
+[ano] 46
+[ter] 38
+[fazer] 35
+[casa] 32
+[morador] 29
+[rua] 26
+[prefeitura] 23

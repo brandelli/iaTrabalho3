@@ -1,0 +1,10 @@
+[ser] 773
+[ano] 283
+[ter] 249
+[não] 204
+[estar] 190
+[casa] 112
+[como] 97
+[tráfico] 87
+[homem] 82
+[prender] 78
