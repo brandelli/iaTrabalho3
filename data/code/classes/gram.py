@@ -120,7 +120,7 @@ class Gram:
         self.create_bag_of_word(sorted_frequencies, temp_sorted, str_file_name)
 
     def create_bag_of_word(self, arr_sorted_frequencies, dic_frequencies, str_file_name):
-        n_words_in_bag = 10
+        n_words_in_bag = 150
         file_path = path.realpath('../formatado/' + str_file_name + 'BagOfWords.txt')
         file_path2 = path.realpath('../formatado/' + str_file_name + 'BagOfWordsFrequency.txt')
         ngram_file = open(file_path, 'w')

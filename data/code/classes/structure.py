@@ -22,6 +22,7 @@ class Structure:
     def create_unigram_test_structure(self, arr_files):
         words_list = []
         file_path = path.realpath('../formatado/bowTestUnigram.txt')
+        # file_path = path.realpath('../formatado/bowTrainingUnigram.txt')
         with open(file_path) as f:
             for line in f:
                 words_list.append(line.strip('\n'))
@@ -31,7 +32,7 @@ class Structure:
         structure_file.write('@RELATION UnigramTest \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i+1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i+1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
@@ -78,7 +79,7 @@ class Structure:
         structure_file.write('@RELATION UnigramTraining \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i + 1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i + 1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
@@ -116,6 +117,7 @@ class Structure:
     def create_bigram_test_structure(self, arr_files):
         words_list = []
         file_path = path.realpath('../formatado/bowTestBigram.txt')
+        # file_path = path.realpath('../formatado/bowTrainingBigram.txt')
         with open(file_path) as f:
             for line in f:
                 words_list.append(line.strip('\n'))
@@ -125,7 +127,7 @@ class Structure:
         structure_file.write('@RELATION BigramTest \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i+1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i + 1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
@@ -172,7 +174,7 @@ class Structure:
         structure_file.write('@RELATION BigramTraining \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i + 1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i + 1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
@@ -210,6 +212,7 @@ class Structure:
     def create_trigram_test_structure(self, arr_files):
         words_list = []
         file_path = path.realpath('../formatado/bowTestTrigram.txt')
+        # file_path = path.realpath('../formatado/bowTrainingTrigram.txt')
         with open(file_path) as f:
             for line in f:
                 words_list.append(line.strip('\n'))
@@ -219,7 +222,7 @@ class Structure:
         structure_file.write('@RELATION TrigramTest \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i+1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i + 1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
@@ -266,7 +269,7 @@ class Structure:
         structure_file.write('@RELATION TrigramTraining \n')
         structure_file.write('\n')
         for i in range(len(words_list)):
-            structure_file.write('@ATTRIBUTE P' + `i + 1` + ' integer \n')
+            structure_file.write('@ATTRIBUTE "P' + `i + 1` + words_list[i] + '" integer \n')
 
         str_classes = ''
         for i in range(len(arr_files)):
